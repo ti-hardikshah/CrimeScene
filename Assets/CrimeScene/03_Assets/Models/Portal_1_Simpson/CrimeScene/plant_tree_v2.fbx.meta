@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 4946da4ad17ce9c46ab68a57f5e8fa6d
+timeCreated: 1580988641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Branch
+    100002: Branch1
+    100004: Dead_leaves
+    100006: Ground_leaf
+    100008: group89
+    100010: group90
+    100012: Leaf1
+    100014: Leaf106
+    100016: Leaf88
+    100018: Long_leaf_grass
+    100020: Long_leaf_plant
+    100022: Long_leaf_plant1
+    100024: Long_leaf_plant2
+    100026: Long_leaf_plant3
+    100028: Long_leaf_plant4
+    100030: Long_leaf_plant5
+    100032: Long_plant
+    100034: Mango_leaves
+    100036: Mango_tree
+    100038: Palm_tree
+    100040: Palm_tree1
+    100042: pasted__group2
+    100044: pasted__group2 1
+    100046: pasted__group3
+    100048: pasted__group5
+    100050: pasted__MisterKillbot_Med
+    100052: pasted__Plant
+    100054: pasted__Plant 1
+    100056: pasted__pPlane234
+    100058: pasted__pPlane235
+    100060: pasted__pPlane236
+    100062: pasted__pPlane237
+    100064: pasted__pPlane238
+    100066: pasted__pPlane239
+    100068: pasted__pPlane240
+    100070: pasted__pPlane241
+    100072: pasted__pPlane242
+    100074: pasted__pPlane243
+    100076: pasted__pPlane244
+    100078: pasted__pPlane245
+    100080: pasted__pPlane246
+    100082: plant
+    100084: Plant13
+    100086: Plant14
+    100088: plant6
+    100090: //RootNode
+    100092: pPlane204
+    100094: pPlane205
+    100096: pPlane207
+    100098: pPlane208
+    100100: pPlane209
+    100102: pPlane223
+    100104: pPlane224
+    100106: pPlane233
+    100108: pPlane234
+    100110: pPlane238
+    100112: pPlane239
+    100114: pPlane241
+    100116: pPlane242
+    100118: steam
+    100120: Tree
+    100122: Tree1
+    100124: Tree2
+    100126: Tree3
+    400000: Branch
+    400002: Branch1
+    400004: Dead_leaves
+    400006: Ground_leaf
+    400008: group89
+    400010: group90
+    400012: Leaf1
+    400014: Leaf106
+    400016: Leaf88
+    400018: Long_leaf_grass
+    400020: Long_leaf_plant
+    400022: Long_leaf_plant1
+    400024: Long_leaf_plant2
+    400026: Long_leaf_plant3
+    400028: Long_leaf_plant4
+    400030: Long_leaf_plant5
+    400032: Long_plant
+    400034: Mango_leaves
+    400036: Mango_tree
+    400038: Palm_tree
+    400040: Palm_tree1
+    400042: pasted__group2
+    400044: pasted__group2 1
+    400046: pasted__group3
+    400048: pasted__group5
+    400050: pasted__MisterKillbot_Med
+    400052: pasted__Plant
+    400054: pasted__Plant 1
+    400056: pasted__pPlane234
+    400058: pasted__pPlane235
+    400060: pasted__pPlane236
+    400062: pasted__pPlane237
+    400064: pasted__pPlane238
+    400066: pasted__pPlane239
+    400068: pasted__pPlane240
+    400070: pasted__pPlane241
+    400072: pasted__pPlane242
+    400074: pasted__pPlane243
+    400076: pasted__pPlane244
+    400078: pasted__pPlane245
+    400080: pasted__pPlane246
+    400082: plant
+    400084: Plant13
+    400086: Plant14
+    400088: plant6
+    400090: //RootNode
+    400092: pPlane204
+    400094: pPlane205
+    400096: pPlane207
+    400098: pPlane208
+    400100: pPlane209
+    400102: pPlane223
+    400104: pPlane224
+    400106: pPlane233
+    400108: pPlane234
+    400110: pPlane238
+    400112: pPlane239
+    400114: pPlane241
+    400116: pPlane242
+    400118: steam
+    400120: Tree
+    400122: Tree1
+    400124: Tree2
+    400126: Tree3
+    2300000: Branch
+    2300002: Branch1
+    2300004: Dead_leaves
+    2300006: Leaf1
+    2300008: Leaf106
+    2300010: Leaf88
+    2300012: Long_leaf_grass
+    2300014: Long_leaf_plant1
+    2300016: Long_leaf_plant2
+    2300018: Long_leaf_plant3
+    2300020: Long_leaf_plant4
+    2300022: Long_leaf_plant5
+    2300024: Long_plant
+    2300026: Mango_leaves
+    2300028: Palm_tree
+    2300030: Palm_tree1
+    2300032: pasted__MisterKillbot_Med
+    2300034: plant
+    2300036: Plant13
+    2300038: plant6
+    2300040: Tree1
+    2300042: Tree2
+    2300044: Tree3
+    3300000: Branch
+    3300002: Branch1
+    3300004: Dead_leaves
+    3300006: Leaf1
+    3300008: Leaf106
+    3300010: Leaf88
+    3300012: Long_leaf_grass
+    3300014: Long_leaf_plant1
+    3300016: Long_leaf_plant2
+    3300018: Long_leaf_plant3
+    3300020: Long_leaf_plant4
+    3300022: Long_leaf_plant5
+    3300024: Long_plant
+    3300026: Mango_leaves
+    3300028: Palm_tree
+    3300030: Palm_tree1
+    3300032: pasted__MisterKillbot_Med
+    3300034: plant
+    3300036: Plant13
+    3300038: plant6
+    3300040: Tree1
+    3300042: Tree2
+    3300044: Tree3
+    4300000: pasted__MisterKillbot_Med
+    4300002: Leaf1
+    4300004: Leaf88
+    4300006: Leaf106
+    4300008: Tree3
+    4300010: Tree1
+    4300012: Plant13
+    4300014: plant
+    4300016: plant6
+    4300018: Long_leaf_plant1
+    4300020: Long_leaf_plant5
+    4300022: Long_leaf_plant2
+    4300024: Long_plant
+    4300026: Tree2
+    4300028: Palm_tree
+    4300030: Palm_tree1
+    4300032: Long_leaf_grass
+    4300034: Long_leaf_plant4
+    4300036: Branch
+    4300038: Dead_leaves
+    4300040: Long_leaf_plant3
+    4300042: Branch1
+    4300044: Mango_leaves
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant_texture_D
+    second: {fileID: 2100000, guid: 9e4ff6247f5496a418e90467461b7cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_bark_texture
+    second: {fileID: 2100000, guid: a1b83b8ff16d9624fb071543a0917b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_texture_D
+    second: {fileID: 2100000, guid: 1597aa922c600e543a6cfcd5c3ca9374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_texture_D1
+    second: {fileID: 2100000, guid: 98d113dd08a54fc4588375e05e40276b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: e35178a727075234bac25e10d31ff494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 616053ca334948a488d7c47037a5d4b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert30
+    second: {fileID: 2100000, guid: 1597aa922c600e543a6cfcd5c3ca9374, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert35
+    second: {fileID: 2100000, guid: b2da6784d5f08e44ca51a1604e783933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_MAT1
+    second: {fileID: 2100000, guid: 8b00640c4c3cfba4ab989fd082977813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_MAT2
+    second: {fileID: 2100000, guid: 8b00640c4c3cfba4ab989fd082977813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn1
+    second: {fileID: 2100000, guid: 62c3027a7a1ca694cb4ccc14709adc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert15
+    second: {fileID: 2100000, guid: 1a8da8d5079e6ff4baec09565292f656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert31
+    second: {fileID: 2100000, guid: 92cf6ca16e9f0b845ae981d77416c57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert35
+    second: {fileID: 2100000, guid: 8abd89702e1e81b4584074884bd982b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert36
+    second: {fileID: 2100000, guid: 00035446a310e9448969266ff2f1e835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert39
+    second: {fileID: 2100000, guid: 7ab4a29d4df051b4292515da2ac266d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert5
+    second: {fileID: 2100000, guid: 8329ac8f9e78a214298ac7bb5a9c05ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert9
+    second: {fileID: 2100000, guid: 1a8da8d5079e6ff4baec09565292f656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert12
+    second: {fileID: 2100000, guid: 9e4ff6247f5496a418e90467461b7cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__plant_texture3
+    second: {fileID: 2100000, guid: 2b9ef25a66202c14a9585f0e9e9a831e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__tree_texture
+    second: {fileID: 2100000, guid: 314a56b1a50aff14c87e3c2d9f8dfef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plant_texture3
+    second: {fileID: 2100000, guid: 2b9ef25a66202c14a9585f0e9e9a831e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree_texture1
+    second: {fileID: 2100000, guid: 314a56b1a50aff14c87e3c2d9f8dfef8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
